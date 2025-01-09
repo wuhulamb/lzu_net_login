@@ -42,6 +42,10 @@ You need to **edit path variable in lzu_net.sh first** before using it.
 
 Open lzu_net.sh and just read it. It's not difficult to modify.
 
+## lzu_net.log will be created in lzu_net_login directory
+
+You can check lzu_net.log to see if something goes wrong.
+
 ## and maybe you want to know how i debug the code?
 
-I write a blog to record the process. It`s in Chinese. Click <a href="https://wuhulamb.me/p/using-selenium-to-login-campus-network/" target="_blank">here</a> to see it.
+I write a blog to record the process. It's in Chinese. Click <a href="https://wuhulamb.me/p/using-selenium-to-login-campus-network/" target="_blank">here</a> to see it.
