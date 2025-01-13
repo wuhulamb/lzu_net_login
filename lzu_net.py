@@ -52,7 +52,7 @@ count = 1
 try_num = 5
 lzu_net = True
 while count <= try_num:
-    if login(count):
+    if login(count, account_username, account_password):
         break
     count += 1
 if not lzu_net:
